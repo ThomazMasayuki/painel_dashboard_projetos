@@ -36,6 +36,4 @@ Os dados são atualizados mensalmente por meio de integração automatizada com 
 
 Centralizar e estruturar indicadores estratégicos relacionados a projetos e contrapartidas, permitindo monitoramento contínuo, análise comparativa e identificação de padrões operacionais e financeiros.
 
---------------------
-
 **Resultado:** solução analítica robusta, automatizada e escalável para monitoramento gerencial e análise de desempenho.
