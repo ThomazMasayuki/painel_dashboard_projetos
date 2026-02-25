@@ -1,7 +1,5 @@
 ## Painel Analítico de Projetos, Setores e Contrapartidas
 
------------------
-
 Este projeto consiste no desenvolvimento de um dashboard interativo em **Power BI** voltado para análise estratégica de projetos, setores industriais e contrapartidas financeiras. O painel foi estruturado para oferecer visão gerencial e analítica consolidada, permitindo acompanhamento mensal dos dados e suporte à tomada de decisão.
 
 -----------------
